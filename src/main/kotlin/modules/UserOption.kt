@@ -1,4 +1,4 @@
-package com.example
+package modules
 
 enum class UserOption(private val choice: String) {
     LOGINOPTION("l"),
